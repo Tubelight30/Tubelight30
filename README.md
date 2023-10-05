@@ -17,7 +17,7 @@
 ## 🤖 Proof that I am Human
 
 - I Play Basktball 
-![Basketball Skills](https://progress-bar.dev/100/?title=Basketball%20Skills&color=FB8B24&width=300&style=flat-square)
+> ![Basketball Skills](https://progress-bar.dev/100/?title=Basketball%20Skills&color=FB8B24&width=300&style=flat-square)
 >  Pro Dunker and 3-Point Freak
 > *Favorite Player:* Michael Jordan 👟🔥
 >
@@ -45,16 +45,3 @@ Connect with me on:
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Tubelight30)](https://git.io/streak-stats)
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <!-- GitHub Stats Card -->
-  <div style="flex: 1;">
-    ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tubelight30&show_icons=true&theme=dark&custom_title=My%20Stats&custom_label=Basketball%20Level&custom_value=Pro%20Dunker&custom_label2=Energy%20Level&custom_value2=100%25&custom_icon=basketball-ball&custom_icon2=bolt&custom_icon_color=FF5733&custom_bg_color=333333&custom_text_color=FFFFFF&line_height=30)
-  </div>
-  
-  <!-- GitHub Streak Card -->
-  <div style="flex: 1;">
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=Tubelight30)](https://git.io/streak-stats)
-  </div>
-</div>
-
