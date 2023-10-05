@@ -6,7 +6,7 @@
 
 
 ![Basketball Skills](https://github.com/Tubelight30/Tubelight30/raw/main/images/basketball_skills.svg)**Basketball Skills: Pro Dunker**
-![Basketball Skills](https://progress-bar.dev/60/?title=Basketball%20Skills&color=FF5733&width=200&style=flat)
+![Basketball Skills](https://progress-bar.dev/60/?title=Basketball%10Skills&color=FF5733&width=200&style=flat)
 
 
 
