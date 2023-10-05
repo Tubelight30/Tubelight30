@@ -17,8 +17,11 @@
 ## 🤖 Proof that I am Human
 
 - I Play Basktball 
+
 > ![Basketball Skills](https://progress-bar.dev/100/?title=Basketball%20Skills&color=FB8B24&width=300&style=flat-square)
+>
 >  Pro Dunker and 3-Point Freak
+>
 > *Favorite Player:* Michael Jordan 👟🔥
 >
 - Quotes to Live By:
