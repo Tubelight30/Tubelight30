@@ -33,17 +33,12 @@
 >Vim sucks
 >
 #### Hence, Proven.
- 
+
 ## 📫 Get in Touch
 Connect with me on:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/saumya-gupta-1b4528269)
 - [![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=for-the-badge&logo=instagram)](https://instagram.com/saum_gupta)
 
-
-
 ## 📈 GitHub Stats
 
 ![Saumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tubelight30&show_icons=true&theme=tokyonight)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tubelight30)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tubelight30&theme=tokyonight)](https://git.io/streak-stats)
