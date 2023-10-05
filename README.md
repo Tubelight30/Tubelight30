@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-![Basketball Skills](https://github.com/yourusername/yourrepository/raw/main/images/basketball_skills.svg) **Basketball Skills: Pro Dunker**
+![Basketball Skills](https://github.com/Tubelight30/Tubelight30/raw/main/images/basketball_skills.svg)**Basketball Skills: Pro Dunker**
 
 
 
