@@ -32,7 +32,7 @@
 - My Opinions:
 >Vim sucks
 >
-#### Hence, Proven.
+**Hence, Proven.**
 
 ## 📫 Get in Touch
 Connect with me on:
