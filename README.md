@@ -45,4 +45,5 @@ Connect with me on:
 
 ![Saumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tubelight30&show_icons=true&theme=tokyonight)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tubelight30)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tubelight30&theme=tokyonight)](https://git.io/streak-stats)
