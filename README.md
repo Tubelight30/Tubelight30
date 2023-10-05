@@ -8,14 +8,7 @@
 - ‼️ I Don't Use Vim
 
 ## 🚀 Skills & Tools
-
-- ![Flutter](https://img.shields.io/badge/Code-Flutter-blue?style=for-the-badge&logo=flutter)
-- ![C++](https://img.shields.io/badge/Code-C++-blue?style=for-the-badge&logo=cplusplus)
-- ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
-- ![Git](https://img.shields.io/badge/Version%20Control-Git-blue?style=for-the-badge&logo=git)
-
 ###
-
 <div align="center">
 
   <img width="12" />
