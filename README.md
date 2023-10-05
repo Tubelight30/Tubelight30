@@ -40,8 +40,6 @@ Connect with me on:
 
 ## 📈 GitHub Stats
 
+![Saumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tubelight30&show_icons=true&theme=tokyonight)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tubelight30&show_icons=true&theme=dark&custom_title=My%20Stats&custom_label=Basketball%20Level&custom_value=Pro%20Dunker&custom_label2=Energy%20Level&custom_value2=100%25&custom_icon=basketball-ball&custom_icon2=bolt&custom_icon_color=FF5733&custom_bg_color=333333&custom_text_color=FFFFFF&line_height=30)
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Tubelight30)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tubelight30&theme=tokyonight)](https://git.io/streak-stats)
